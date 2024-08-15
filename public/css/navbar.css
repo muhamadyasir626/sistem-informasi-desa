@@ -1,0 +1,39 @@
+.divider {
+  margin: 0px 10px;
+  border-left: 2px solid #838383;
+  height: 40px;
+}
+
+#header{
+  background-color:white;
+  border-bottom: 2px solid #DEE2E6; 
+}
+
+.nav-link.active{
+  color: red !important;
+}
+
+#search{
+  border: 1px solid red;
+}
+
+#login:hover{
+  background-color: white;
+  color: red;
+
+}
+#list-footer a {
+  transition: color 0.3s ease;
+}
+
+#list-footer a:hover {
+  color: red !important; 
+  text-decoration: underline red !important; 
+}
+
+
+
+#link-terkait{
+  left: 10px;
+}
+
