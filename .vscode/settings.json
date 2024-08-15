@@ -1,0 +1,7 @@
+{
+  "codeBlocks.ignoredLanguageIds": [
+    "php",
+    "css",
+    "plaintext"
+  ]
+}
