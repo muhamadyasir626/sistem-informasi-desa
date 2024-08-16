@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/windows,laravel,visualstudiocode
-# Edit at https://www.toptal.com/developers/gitignore?templates=windows,laravel,visualstudiocode
+# Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,laravel
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode,laravel
 
 ### Laravel ###
 /vendor/
@@ -71,4 +71,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/windows,laravel,visualstudiocode
+# End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,laravel
